@@ -25,7 +25,7 @@ while SwapMade > 0    %Loop to continue swapping until complete
         end
     end
 end
-
+a=2;
 %%%%%%%%%%%%%%
 %%%%OUTPUT%%%%
 %%%%%%%%%%%%%%
